@@ -1,0 +1,8 @@
+{
+  "name": "Maru [MAP] MANMARU#4269",
+  "ticker": "MAP",
+  "discordId": "844804089858752542",
+  "pool-list": "true",
+  "poolMetaData": "https://raw.githubusercontent.com/naoyuki75/manmaru/main/poolMetaData.json",
+  "validation": "https://raw.githubusercontent.com/naoyuki75/manmaru/main/sjg-validation.json"
+}
